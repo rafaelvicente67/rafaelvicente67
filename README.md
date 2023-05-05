@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafaelvicente67
 - 👀 I’m interested in aprender e formar as gerações vindoras.
 - 🌱 I’m currently learning progrmação web, para se tornar um desenvolvedor fullstack
-- 💞️ I’m looking to collaborate on  qualquer tipo de projectos, gosto de seafios (projectos em progranação web)
+- 💞️ I’m looking to collaborate on  qualquer tipo de projectos, gosto de desafios :D
 - 📫 How to reach me , manda um e-mail rafaelvicente451@outlook.pt
 
 <!---
